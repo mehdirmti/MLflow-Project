@@ -2,9 +2,9 @@ name: RF_Regressor
 
 python_env: python_env.yaml
 
-entry_points:
-   main:
-     parameters: 
-       n_estimators: {type: int, default: 10}
-       max_depth: {type: int, default: 10}
-     command: "python3 RFRegressor_server.py {n_estimators} {max_depth}"
+entry_points: 
+  main: 
+    parameters: 
+      n_estimators: {type: int, default: 10}
+      max_depth: {type: int, default: 10}
+    command: "python3 RFRegressor_server.py {n_estimators} {max_depth}"

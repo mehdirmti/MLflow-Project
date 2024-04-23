@@ -72,7 +72,7 @@ remote_server_uri = "https://dagshub.com/mehdirmti/MLflow-Tracking.mlflow"
 mlflow.set_tracking_uri(remote_server_uri)
 
 # Define experiment name, run name and artifact_path name
-apple_experiment = mlflow.set_experiment("My_Model")
+#apple_experiment = mlflow.set_experiment("My_Model")
 #run_name = "run_{}".format(int(sys.argv[3]) if len(sys.argv) > 3 else 0)
 
 #with mlflow.start_run(run_name=run_name) as run:

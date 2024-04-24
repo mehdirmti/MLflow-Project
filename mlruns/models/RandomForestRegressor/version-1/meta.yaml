@@ -1,0 +1,12 @@
+creation_timestamp: 1713952713832
+current_stage: None
+description: null
+last_updated_timestamp: 1713952713832
+name: RandomForestRegressor
+run_id: e2be2ef0bcdf4b5bade9258e03bffeb7
+run_link: null
+source: file:///C:/Users/m.rahmati/OneDrive/%23%20ML%20%26%20DL%20Code%20Templates/9%20MLflow%20-%20Model%20life-cycel%20control/MLflow%20Project/mlruns/555516201752310434/e2be2ef0bcdf4b5bade9258e03bffeb7/artifacts/RF_Regressor
+status: READY
+status_message: null
+user_id: null
+version: 1
